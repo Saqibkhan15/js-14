@@ -16,16 +16,16 @@
 
 
 // function fullname(){
-// var firstName = prompt();
-// var lastName=prompt();
+// var firstName = prompt("enter first name");
+// var lastName=prompt("enter last name");
 // alert(firstName+lastName)
 // }
  
 // fullname()
 
 // function addition(){
-// var num1 = prompt();
-// var num2=prompt();
+// var num1 = prompt("enter first number");
+// var num2=prompt("enter second number");
 // alert(num1+num2)
 // }
  
