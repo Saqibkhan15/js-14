@@ -31,4 +31,23 @@
  
 // addition()
 
+//var num1 = +prompt("Enter first number:");
+// var opr = prompt("Enter operator ");
+// var num2 = +prompt("Enter second number:");
+
+// function calculator() {
+//     var result;
+//     if (opr === "+") {
+//         result = num1 + num2;
+//     } else if (opr === "-") {
+//         result = num1 - num2;
+//     } else if (opr === "*") {
+//         result = num1 * num2;
+//     } else if (opr === "/") {
+//         result = num1 / num2;
+//     }
+//     alert(num1 + " " + opr + " " + num2 + " = " + result);
+// }
+
+// calculator();
 
